@@ -4,7 +4,6 @@ import {
   Web3Button,
   useAddress,
   useContract,
-  useContractWrite,
 } from "@thirdweb-dev/react";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
